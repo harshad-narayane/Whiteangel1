@@ -1,0 +1,4 @@
+*.class
+.meatdata
+*.jar
+//temp/
